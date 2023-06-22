@@ -1,1 +1,2 @@
-this form created by using jswing allow user input and data store
+this form created by using jswing allow user input and data store.
+and we stored student information 
